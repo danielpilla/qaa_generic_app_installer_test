@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "name": "Ctrl 00",
+        "version": "v1.0.0",
+        "source": "https://github.com/danielpilla/qaa_generic_app_installer_test/releases/download/v1.0.0/ctrl00.qvf",
+        "subscriptionTypes": ["user","capacity"]
+    }
+]
